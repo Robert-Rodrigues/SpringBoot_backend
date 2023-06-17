@@ -1,7 +1,7 @@
 com\example\Projetim\controller\UserController.class
+com\example\Projetim\repository\model\Usuario.class
 com\example\Projetim\repository\model\Post.class
 com\example\Projetim\ProjetimApplication.class
-com\example\Projetim\repository\model\Usuário.class
 com\example\Projetim\repository\UserRepository.class
 com\example\Projetim\repository\CommentRepository.class
 com\example\Projetim\repository\model\Comment.class
